@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     cout<<"Hey Rishith"<<endl<<"How's Life?"<<endl;   //flushes buffer immediately
-    cout<<"Hey Rishith"<<"\n"<<"How's Life?";   //newline char
+    cout<<"Hey Rishith"<<"\n"<<"How's Life? Whatsup";   //newline char
     return 0;
 
 }
